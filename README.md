@@ -1,7 +1,11 @@
 # PyWGCNA Pipeline for Gene expression (data from Dash et al., 2023)
+### Module_trait_relationship_heatmap
 ![Module_trait_relationship_heatmap](Module_trait_relationship_heatmap.png)
-## Module_trait_relationship_heatmap
 
+### Module_Eigengenes_across_samples
+![Module_Eigengenes_across_samples](Module_Eigengenes_across_samples.png)
+
+---
 This repository provides a complete, reproducible pipeline for **gene co-expression network analysis** using [PyWGCNA](https://pywgcna.readthedocs.io/). The workflow is demonstrated on a 16-sample, 2×2 experimental design (Genotype × Treatment) for *Arabidopsis thaliana*.
 
 ---
